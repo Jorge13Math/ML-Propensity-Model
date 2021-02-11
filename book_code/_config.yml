@@ -1,0 +1,24 @@
+#######################################################################################
+# Book settings
+title : Datacentric Tecnical Test
+author: Jorge A Flores S
+
+# Information about where the book exists on the web
+description: >-
+  A brief introduction to Python programming for scientific applications.
+
+#######################################################################################
+# Execution settings
+execute:
+  execute_notebooks           : cache
+
+#######################################################################################
+# HTML-specific settings
+html:
+  home_page_in_navbar         : false
+
+# #######################################################################################
+# Interact link settings
+notebook_interface            : "notebook"
+
+#######################################################################################
